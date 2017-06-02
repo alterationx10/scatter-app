@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scatter</string>
+    <string name="uri_label">None</string>
+    <string name="action_settings">Settings</string>
+    <string name="media_type_label">Select Media Type</string>
+    <string name="content_label">Post Content</string>
+    <string name="file_select_label">Select Media File</string>
+    <string-array name="media_types">
+        <item>Text</item>
+        <item>Image</item>
+        <item>Video</item>
+        <item>Audio</item>
+        <item>External Link</item>
+    </string-array>
+</resources>
